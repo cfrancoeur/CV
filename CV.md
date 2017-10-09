@@ -5,11 +5,11 @@
 -----
 ## Education
 
-**University of Wisconsin - Madison**
+**University of Wisconsin - Madison**  
 Microbiology Doctoral Training Program, Class of 2016
 Laboratory of Dr. Cameron Currie, Department of Bacteriology
 
-**University of Maryland - College Park**
+**University of Maryland - College Park**  
 Bachelor of Science in Microbiology with Black Women's Studies Minor
 Graduation: May 2016
 Cumulative GPA: 3.905
@@ -18,27 +18,27 @@ Cell Biology and Molecular Genetics Departmental Honors
 Cum Laude Latin Honors
 
 ## Research Experience
-**[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**
-January 2017 - present
-> Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini)
+**[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**  
+January 2017 - present  
+> Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini).
 > More details about my research [here](https://cfrancoeur.github.io/research/).
 
-**Wu Lab, University of Maryland - College Park**
-September 2014-July 2016
->Institute for Bioscience and Biotechnology Research Laboratory
->Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu investigating genes associated with the phagocytosis of fungi in *Drosophila melanogaster* 
->Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster* 
+**Wu Lab, University of Maryland - College Park**  
+September 2014-July 2016  
+>Institute for Bioscience and Biotechnology Research Laboratory  
+>Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu investigating genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
+>Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
-**Nou lab, United States Department of Agriculture - Agricultural Research Service**
-August 2012-May 2014
->Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou
+**Nou lab, United States Department of Agriculture - Agricultural Research Service**  
+August 2012-May 2014  
+>Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou  
 >Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*
 >Resulted in a publication (see below)
 
-**Martin lab, United States Department of Agriculture - Agricultural Research Service**
-August 2011-May 2012
->High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin
->Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)
+**Martin lab, United States Department of Agriculture - Agricultural Research Service**  
+August 2011-May 2012  
+>High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin  
+>Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)  
 
 ## Publications
 
