@@ -6,23 +6,15 @@
 ## Education
 
 **University of Wisconsin - Madison**
-
 Microbiology Doctoral Training Program, Class of 2016
-
 Laboratory of Dr. Cameron Currie, Department of Bacteriology
 
 **University of Maryland - College Park**
-
 Bachelor of Science in Microbiology with Black Women's Studies Minor
-
 Graduation: May 2016
-
 Cumulative GPA: 3.905
-
 Integrated Life Sciences Honors
-
 Cell Biology and Molecular Genetics Departmental Honors
- 
 Cum Laude Latin Honors
 
 ## Research Experience
