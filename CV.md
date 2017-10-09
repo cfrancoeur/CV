@@ -79,7 +79,8 @@ January 2016 - May 2016
 
 ## Leadership & Volunteering
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
-> Outreach program that brings high school and middle school students and scientists together to discuss careers in science
+> Outreach program that brings high school and middle school students and scientists together to discuss careers in science  
+>run by the [Morgridge Institute for Research](https://morgridge.org/)
 
 **Women's Maryland Club Ultimate B Team Captain**
 August 2014-May 2016
@@ -94,7 +95,7 @@ Spring Break 2013
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
 
 ## Organizations/Committees
-**Computation Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
+**Computational Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
 > Study group for R and Python specifically for students in the biological sciences
 
 **Student Invited Speaker Committee at UW-Madison**
