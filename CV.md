@@ -42,30 +42,30 @@ August 2011-May 2012
 
 ## Publications
 
-1. Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
+1 Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
 ## Presentations
-4. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
+4 **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
 
-3. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
+3 **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
 
-2. **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
+2 **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
 
-1. **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
+1 **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
 
 ## Awards
-3. Dean's List and Academic Honors - University of Maryland (Fall 2012-Spring 2016)
+3 Dean's List and Academic Honors - University of Maryland (Fall 2012-Spring 2016)
 
-2. Senator Pinsky's Senatorial Scholarship (August 2012-May 2013)
+2 Senator Pinsky's Senatorial Scholarship (August 2012-May 2013)
 
-1. Delegate Anne Healey Scholarship (August 2012-May 2013)
+1 Delegate Anne Healey Scholarship (August 2012-May 2013)
 
 ## Professional Development
-3. **Anvi'o Workshop** UW-Madison, May 2017
+3 **Anvi'o Workshop** UW-Madison, May 2017
 
-2. **Microbiota Analysis in R** UW-Madison, November 2017
+2 **Microbiota Analysis in R** UW-Madison, November 2017
 
-1. **Microbiota Processing in mothur** UW-Madison, November 2017
+1 **Microbiota Processing in mothur** UW-Madison, November 2017
 
 ## Teaching
 **Assistant Teacher**
