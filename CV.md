@@ -84,7 +84,7 @@ January 2016-May 2016
 **Student Invited Speaker Committee at UW-Madison**
 >A committee of students who coordinate a visit from a research outside of UW-Madison
 
-## Leadership/Volunteer
+## Leadership & Volunteering
 **Junior Science Cafe** [Junior Science Cafe Program](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
 >outreach program that brings high school and middle school students and scientists together to discuss careers in science
 
