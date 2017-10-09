@@ -47,14 +47,14 @@ August 2011-May 2012
 ## Presentations
 4. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
 
-3.**Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
+3. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
 
 2. **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
 
 1. **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
 
 ## Awards
-3. Dean's List and Academic Honors Fall 2012-Spring 2016 (University of Maryland)
+3. Dean's List and Academic Honors - University of Maryland (Fall 2012-Spring 2016)
 
 2. Senator Pinsky's Senatorial Scholarship (August 2012-May 2013)
 
@@ -82,20 +82,20 @@ January 2016-May 2016
 > Study group for R and Python specifically for students in the biological sciences
 
 **Student Invited Speaker Committee at UW-Madison**
->A committee of students who coordinate a visit from a research outside of UW-Madison
+> A committee of students who coordinate a visit from a research outside of UW-Madison
 
 ## Leadership & Volunteering
 **Junior Science Cafe** [Junior Science Cafe Program](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
->outreach program that brings high school and middle school students and scientists together to discuss careers in science
+> Outreach program that brings high school and middle school students and scientists together to discuss careers in science
 
 **Women's Maryland Club Ultimate B Team Captain**
 August 2014-May 2016
-> organize practices and tournaments in order to grow the women's ultimate community
+> Organize practices and tournaments in order to grow the women's ultimate community
 
 **Women's Maryland Club Ultimate Treasurer**
 August 2013-May 2016
->manage funds for women's club ultimate
+> Manage funds for women's club ultimate
 
 **Alternative Spring Break-Chesapeake Bay**
 Spring Break 2013
->engaged in tree planting, urban farming, river clean up and oyster resetoration
+> Engaged in tree planting, urban farming, river clean up and oyster restoration
