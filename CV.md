@@ -6,7 +6,7 @@
 ## Education
 
 **University of Wisconsin - Madison**
-Microbiology Doctoral Trianing Program, Class of 2016
+Microbiology Doctoral Training Program, Class of 2016
 Laboratory of Dr. Cameron Currie, Department of Bacteriology
 
 **University of Maryland - College Park**
@@ -21,7 +21,7 @@ Cum Laude Latin Honors
 **[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**
 January 2017 - present
 > Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini)
-> More details about my research [here](https://cfrancoeur.github.io/research/)
+> More details about my research [here](https://cfrancoeur.github.io/research/).
 
 **Wu Lab, University of Maryland - College Park**
 September 2014-July 2016
@@ -73,7 +73,7 @@ August 2017-December 2017
 > Assistant teacher in Pathogenic Bacteriology with professor Dr. Joe Dillard
 >Duties include giving three lectures(Antibiotics, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
-**Undergraduate TA**
+**Undergraduate Teaching Assistant**
 January 2016-May 2016
 > Teacher's assistant in Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
@@ -85,7 +85,7 @@ January 2016-May 2016
 > A committee of students who coordinate a visit from a research outside of UW-Madison
 
 ## Leadership & Volunteering
-**Junior Science Cafe** [Junior Science Cafe Program](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
+**Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
 > Outreach program that brings high school and middle school students and scientists together to discuss careers in science
 
 **Women's Maryland Club Ultimate B Team Captain**
