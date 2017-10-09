@@ -69,7 +69,7 @@ August 2011-May 2012
 ## Teaching
 **Assistant Teacher**
 August 2017-December 2017
-> Assistant teacher in Pathogenic Bacteriology with professor Dr. Joe Dillard
+> Assistant teacher in Pathogenic Bacteriology with professor Dr. Joe Dillard  
 >Duties include giving three lectures(Antibiotics, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
 **Undergraduate Teaching Assistant**
