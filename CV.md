@@ -32,8 +32,8 @@ September 2014 - July 2016
 **Nou lab, United States Department of Agriculture - Agricultural Research Service**  
 August 2012 - May 2014  
 >Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou  
->Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*
->-Resulted in a publication (see below)
+>Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*  
+>Resulted in a publication (see below)
 
 **Martin lab, United States Department of Agriculture - Agricultural Research Service**  
 August 2011 - May 2012  
