@@ -17,13 +17,13 @@ Integrated Life Sciences Honors
 Cell Biology and Molecular Genetics Departmental Honors
 Cum Laude Latin Honors
 
-##Research Experience
+## Research Experience
 **[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**
 January 2017 - present
 > Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini)
 > More details about my research [here](https://cfrancoeur.github.io/research/)
 
-**Wu Lab, University of Maryland - College Park*
+**Wu Lab, University of Maryland - College Park**
 September 2014-July 2016
 >Institute for Bioscience and Biotechnology Research Laboratory
 >Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu investigating genes associated with the phagocytosis of fungi in *Drosophila melanogaster* 
