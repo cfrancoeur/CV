@@ -77,13 +77,6 @@ September 2017 - December 2017
 January 2016 - May 2016
 > Teacher's assistant in Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
-## Organizations/Committees
-**Computation Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
-> Study group for R and Python specifically for students in the biological sciences
-
-**Student Invited Speaker Committee at UW-Madison**
-> A committee of students who coordinate a visit from a research outside of UW-Madison
-
 ## Leadership & Volunteering
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
 > Outreach program that brings high school and middle school students and scientists together to discuss careers in science
@@ -99,3 +92,20 @@ August 2013-May 2016
 **Alternative Spring Break-Chesapeake Bay**
 Spring Break 2013
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
+
+## Organizations/Committees
+**Computation Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
+> Study group for R and Python specifically for students in the biological sciences
+
+**Student Invited Speaker Committee at UW-Madison**
+> A committee of students who coordinate a visit from a research outside of UW-Madison
+
+## Relevant Classes
+### 2017
+CS 301: Introduction to Data Programming (Python)
+MICROBIO526: Microbial Physiology
+MICROBIO875: Bioinformatics for Microbiologists
+
+###2016
+MICROBIO655: Biology and Genetics of Filamentous Fungi
+ENST432: Environmental Microbiology
