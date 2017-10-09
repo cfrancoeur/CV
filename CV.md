@@ -101,11 +101,11 @@ Spring Break 2013
 > A committee of students who coordinate a visit from a research outside of UW-Madison
 
 ## Relevant Classes
-### 2017
-CS 301: Introduction to Data Programming (Python)
-MICROBIO526: Microbial Physiology
-MICROBIO875: Bioinformatics for Microbiologists
+#### 2017
+CS 301: Introduction to Data Programming (Python)  
+MICROBIO526: Microbial Physiology  
+MICROBIO875: Bioinformatics for Microbiologists  
 
-###2016
-MICROBIO655: Biology and Genetics of Filamentous Fungi
-ENST432: Environmental Microbiology
+#### 2016
+MICROBIO655: Biology and Genetics of Filamentous Fungi  
+ENST432: Environmental Microbiology  
