@@ -20,7 +20,7 @@ Cum Laude Latin Honors
 ## Research Experience
 **[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**  
 January 2017 - present  
-..*Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini). More details about my research [here](https://cfrancoeur.github.io/research/).
+*Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini). More details about my research [here](https://cfrancoeur.github.io/research/).
 
 **Wu Lab, University of Maryland - College Park**  
 September 2014-July 2016  
