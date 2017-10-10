@@ -111,3 +111,7 @@ MICROBIO875: Bioinformatics for Microbiologists
 #### 2016
 MICROBIO655: Biology and Genetics of Filamentous Fungi  
 ENST432: Environmental Microbiology  
+
+#### 2015
+BSCI467: Freshwater Biology
+BSCI424: Pathogenic Microbiology
