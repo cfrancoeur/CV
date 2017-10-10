@@ -1,3 +1,4 @@
+
 # Charlotte Francoeur
 
 <francoeur@wisc.edu> | http://cfrancoeur.github.io
@@ -26,7 +27,7 @@ January 2017 - Present
 **Wu Lab, University of Maryland - College Park**  
 September 2014 - July 2016  
 >Institute for Bioscience and Biotechnology Research Laboratory  
->Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu investigating genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
+>Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu 
 >Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
 **Nou lab, United States Department of Agriculture - Agricultural Research Service**  
@@ -70,12 +71,12 @@ August 2011 - May 2012
 ## Teaching
 **Assistant Teacher**
 September 2017 - December 2017
-> Assistant teacher in Pathogenic Bacteriology with professor Dr. Joe Dillard  
->Duties include giving three lectures(Antibiotics, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
+> Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
+>Duties include giving three lectures(Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
 **Undergraduate Teaching Assistant**
 January 2016 - May 2016
-> Teacher's assistant in Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
+> Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
 ## Leadership & Volunteering
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
