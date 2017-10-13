@@ -27,7 +27,7 @@ January 2017 - Present
 **Wu Lab, University of Maryland - College Park**  
 September 2014 - July 2016  
 >Institute for Bioscience and Biotechnology Research Laboratory  
->Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu 
+>Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu   
 >Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
 **Nou Lab, United States Department of Agriculture - Agricultural Research Service**  
