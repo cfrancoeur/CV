@@ -113,5 +113,5 @@ MICROBIO655: Biology and Genetics of Filamentous Fungi
 ENST432: Environmental Microbiology  
 
 #### 2015
-BSCI467: Freshwater Biology
+BSCI467: Freshwater Biology . 
 BSCI424: Pathogenic Microbiology
