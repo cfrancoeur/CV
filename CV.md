@@ -1,3 +1,4 @@
+
 # Charlotte Francoeur
 
 <francoeur@wisc.edu> | http://cfrancoeur.github.io
@@ -19,23 +20,23 @@ Cell Biology and Molecular Genetics Departmental Honors
 Cum Laude Latin Honors  
 
 ## Research Experience
-**[Currie lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**  
+**[Currie Lab](https://currielab.wisc.edu/), University of Wisconsin-Madison**  
 January 2017 - Present  
 >Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini). More details about my research [here](https://cfrancoeur.github.io/research/).
 
 **Wu Lab, University of Maryland - College Park**  
 September 2014 - July 2016  
 >Institute for Bioscience and Biotechnology Research Laboratory  
->Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu investigating genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
+>Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu   
 >Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
-**Nou lab, United States Department of Agriculture - Agricultural Research Service**  
+**Nou Lab, United States Department of Agriculture - Agricultural Research Service**  
 August 2012 - May 2014  
 >Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou  
 >Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*  
 >Resulted in a publication (see below)
 
-**Martin lab, United States Department of Agriculture - Agricultural Research Service**  
+**Martin Lab, United States Department of Agriculture - Agricultural Research Service**  
 August 2011 - May 2012  
 >High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin  
 >Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)  
@@ -63,9 +64,9 @@ August 2011 - May 2012
 ## Professional Development
 1. **Anvi'o Workshop** UW-Madison, May 2017
 
-2. **Microbiota Analysis in R** UW-Madison, November 2017
+2. **Microbiota Analysis in R** UW-Madison, November 2016
 
-3. **Microbiota Processing in mothur** UW-Madison, November 2017
+3. **Microbiota Processing in mothur** UW-Madison, November 2016
 
 ## Teaching & Mentoring
 **Currie Lab Mentoring**
@@ -77,12 +78,12 @@ June 2017-present
 
 **Assistant Teacher**
 September 2017 - December 2017
-> Assistant teacher in Pathogenic Bacteriology with professor Dr. Joe Dillard  
->Duties include giving three lectures(Antibiotics, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
+> Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
+>Duties include giving three lectures(Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
 **Undergraduate Teaching Assistant**
 January 2016 - May 2016
-> Teacher's assistant in Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
+> Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
 ## Leadership & Volunteering
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
@@ -117,3 +118,7 @@ MICROBIO875: Bioinformatics for Microbiologists
 #### 2016
 MICROBIO655: Biology and Genetics of Filamentous Fungi  
 ENST432: Environmental Microbiology  
+
+#### 2015
+BSCI467: Freshwater Biology   
+BSCI424: Pathogenic Microbiology
