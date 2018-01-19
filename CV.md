@@ -71,7 +71,7 @@ August 2011 - May 2012
 ## Teaching & Mentoring
 **Currie Lab Mentoring**
 June 2017-present
-> Graduate Student Mentor for PhD rotation students and undergraduate students in the Currie lab
+> Graduate Student Mentor for PhD rotation students and undergraduate students in the Currie lab   
 > **Donny Hoang:** MDTP rotation student, January 2018. Inhibition of *Escovopsis* by *Burkholderia*.  
 > **Josh Daniels:** Undergraduate student, Summer 2017-present. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
 > **Laura Williams:** Undergraduate student, Fall 2017-present. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
