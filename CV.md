@@ -76,9 +76,10 @@ August 2011 - May 2012
 **Currie Lab Mentoring**
 June 2017-present
 > Graduate Student Mentor for PhD rotation students and undergraduate students in the Currie lab   
+>**Jennifer Koehler:** REU student, Summer 2018. Lipid Production of *Streptomyces* on Conversion Residue.
 > **Donny Hoang:** MDTP rotation student, January 2018. Inhibition of *Escovopsis* by *Burkholderia*.  
-> **Josh Daniels:** Undergraduate student, Summer 2017-present. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
-> **Laura Williams:** Undergraduate student, Fall 2017-present. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
+> **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
+> **Laura Williams:** Undergraduate student, Fall 2017-May 2018. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
 
 **Assistant Teacher**
 September 2017 - December 2017
@@ -91,6 +92,7 @@ January 2016 - May 2016
 
 ## Leadership & Volunteering
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
+>Fall 2017
 > Outreach program that brings high school and middle school students and scientists together to discuss careers in science  
 >run by the [Morgridge Institute for Research](https://morgridge.org/)
 
