@@ -46,17 +46,18 @@ August 2011 - May 2012
 1. Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
 ## Presentations
-1. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting. April 2018.  
+1. **Francoeur, C.B.**, Hoang, D., Carlos, C., & Currie, C. Potential roles of Burkholderia in the fungus-farming ant system. **Poster Presentation** at the Beneficial Microbes Meeting. July 2018.
+2. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting. April 2018.  
 
-2. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. March 2018.
+3. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. March 2018.
 
-3. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
+4. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
 
-4. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
+5. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
 
-5. **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
+6. **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
 
-6. **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
+7. **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
 
 ## Awards
 1. Dean's List and Academic Honors - University of Maryland (Fall 2012-Spring 2016)
@@ -109,11 +110,14 @@ Spring Break 2013
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
 
 ## Organizations/Committees
+**Student Invited Speaker Committee at UW-Madison**
+Fall 2017 - present
+> A committee of students who coordinate a visit from a research outside of UW-Madison
+
 **Computational Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
 > Study group for R and Python specifically for students in the biological sciences
 
-**Student Invited Speaker Committee at UW-Madison**
-> A committee of students who coordinate a visit from a research outside of UW-Madison
+
 
 ## Relevant Classes
 #### 2017
