@@ -67,11 +67,13 @@ August 2011 - May 2012
 3. Delegate Anne Healey Scholarship (August 2012-May 2013)
 
 ## Professional Development
-1. **Anvi'o Workshop** UW-Madison, May 2017
+1. **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station, August - September 2018
+ 
+2. **Anvi'o Workshop** UW-Madison, May 2017
 
-2. **Microbiota Analysis in R** UW-Madison, November 2016
+3. **Microbiota Analysis in R** UW-Madison, November 2016
 
-3. **Microbiota Processing in mothur** UW-Madison, November 2016
+4. **Microbiota Processing in mothur** UW-Madison, November 2016
 
 ## Teaching & Mentoring
 **Currie Lab Mentoring**
