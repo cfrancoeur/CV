@@ -74,7 +74,7 @@ August 2011 - May 2012
 **Currie Lab Mentoring**
 June 2017-present
 > Graduate Student Mentor for PhD rotation students and undergraduate students in the Currie lab   
-> **Olivia Panthofer:** Undergraduate Student, Spring 2019-Present. Isolation of Phage from Fungus Gardens.
+> **Olivia Panthofer:** Undergraduate Student, Spring 2019-Present. Isolation of Phage from Fungus Gardens.  
 > **Jennifer Koehler:** REU student, Summer 2018. Lipid Production of *Streptomyces* on Conversion Residue.  
 > **Donny Hoang:** MDTP rotation student, January 2018. Inhibition of *Escovopsis* by *Burkholderia*.  
 > **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
